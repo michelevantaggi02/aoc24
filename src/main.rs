@@ -10,6 +10,10 @@
  * Every exercise will have its own function and a run() function to call both
  */
 
+// day 1 exercises
+mod day1;
+
 
 fn main() {
+    day1::run();
 }
