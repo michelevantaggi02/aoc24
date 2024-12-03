@@ -10,10 +10,12 @@
  * Every exercise will have its own function and a run() function to call both
  */
 
-// day 1 exercises
-mod day1;
+
+// Import the module for the day
+mod day2;
+use crate::day2::run;
 
 
 fn main() {
-    day1::run();
+    run();
 }
