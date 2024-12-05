@@ -12,8 +12,8 @@
 
 
 // Import the module for the day
-mod day2;
-use crate::day2::run;
+mod day3;
+use crate::day3::run;
 
 
 fn main() {
